@@ -15,8 +15,4 @@ class MyTestController extends AuthController
 	public function actionIndex(){
 		echo 'this method finished';
 	}
-
-	public function actionCreate(){
-		echo 'To be perfected';
-	}
 }
