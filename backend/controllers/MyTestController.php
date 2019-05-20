@@ -23,4 +23,8 @@ class MyTestController extends AuthController
 	public function actionUpdate(){
 		echo 'update';
 	}
+
+	public function actionDelete(){
+		echo 'delete all info';
+	}
 }
